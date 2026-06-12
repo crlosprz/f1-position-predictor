@@ -96,7 +96,7 @@ python src/01_download_data.py
 python src/02_merge_datasets.py
 python src/03_clean_dataset.py
 python src/05_feature_engineering.py
-python src/04_train_models.py
+python src/06_train_position_model.py
 
 # Estructura del proyecto
 
